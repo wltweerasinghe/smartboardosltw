@@ -1,6 +1,6 @@
-# LTW Smart Board OS v1.0 — Official Documentation & Governance
+# LTW Smart Board OS v2.0 — Official Documentation & Governance
 
-Welcome to the public documentation and repository governance directory for **LTW Smart Board OS v1.0**.
+Welcome to the public documentation and repository governance directory for **LTW Smart Board OS v2.0**.
 
 > **IMPORTANT NOTICE REGARDING SOURCE CODE:**  
 > This public repository contains **strictly documentation, legal frameworks, and configuration metadata**. The underlying production application source code, execution binaries, and proprietary implementation scripts are maintained in a separate private repository and are **NOT** published, hosted, or accessible within this public project.
@@ -9,7 +9,7 @@ Welcome to the public documentation and repository governance directory for **LT
 
 ## Executive Summary
 
-**LTW Smart Board OS v1.0** is an interactive, front-end simulation of a smart interactive display operating system. Designed to emulate modern touch-screen classroom hardware interfaces, it provides a comprehensive workspace featuring a dynamic home launcher, a fully featured multi-tool whiteboard application, cloud storage integrations, wireless device casting panels, screen recording utilities, an app store interface, and complete system settings controls. All application data operates entirely within a client-side sandbox environment.
+**LTW Smart Board OS v2.0** is an interactive, front-end simulation of a smart interactive display operating system. Designed to emulate modern touch-screen classroom hardware interfaces, it provides a comprehensive workspace featuring a dynamic home launcher, a fully featured multi-tool whiteboard application, cloud storage integrations, wireless device casting panels, screen recording utilities, an app store interface, and complete system settings controls. All application data operates entirely within a client-side sandbox environment.
 
 ---
 
@@ -22,6 +22,12 @@ Welcome to the public documentation and repository governance directory for **LT
 - **Wireless Casting & Discovery:** Features a wireless screen casting panel equipped with simulated nearby device discovery.
 - **Screen Recording & Annotation Suite:** Includes a live recording indicator accompanied by a floating utility toolbar supporting screenshots, countdown timers, on-screen annotations, and instant sharing.
 - **App Store & System Settings:** Integrates an application marketplace panel with install/open states, alongside a settings control center featuring brightness and volume sliders, Wi-Fi/Bluetooth toggles, and a night mode switch, plus an embedded timer and stopwatch panel.
+# SmartBoard Pro
+- Home launcher screen with app grid, dock, quick toggles, notification shade, floating draggable toolbar
+- Wireless casting panel with device discovery simulation
+- Screen recording indicator + floating toolbar with screenshot/timer/annotate/share tools
+- App Store panel with install/open states
+- Settings panel with brightness/volume sliders and Wi-Fi/Bluetooth/night mode toggles
 
 ---
 
@@ -45,7 +51,7 @@ This public repository contains only governance and metadata assets structured a
 ├── README.md                      # Primary project overview and governance document
 ├── SECURITY.md                    # Vulnerability reporting protocols and security posture
 ├── SUPPORT.md                     # Official support channels and inquiry procedures
-└── VERSION                        # Current major version tag (v1.0)
+└── VERSION                        # Current major version tag (v2.0)
 ```
 
 ---

@@ -1,6 +1,6 @@
 # Support & Inquiry Portal
 
-Welcome to the official support reference for **LTW Smart Board OS v1.0**.
+Welcome to the official support reference for **LTW Smart Board OS v2.0**.
 
 ---
 

@@ -1,6 +1,6 @@
 # Repository Contribution Guidelines
 
-Thank you for visiting the official repository directory for **LTW Smart Board OS v1.0**.
+Thank you for visiting the official repository directory for **LTW Smart Board OS v2.0**.
 
 ---
 

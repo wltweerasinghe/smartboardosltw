@@ -2,7 +2,7 @@
 
 ## 1. Security Architecture & Scope Overview
 
-The **LTW Smart Board OS v1.0** is engineered around strict zero-trust and client-side execution principles. While the actual application source code is **not published in this repository**, the application architecture relies exclusively on browser-native Three.js WebGL rendering, 2D HTML5 canvas primitives, and local JavaScript evaluation engines to eliminate network exposure and remote server vulnerabilities.
+The **LTW Smart Board OS v2.0** is engineered around strict zero-trust and client-side execution principles. While the actual application source code is **not published in this repository**, the application architecture relies exclusively on browser-native Three.js WebGL rendering, 2D HTML5 canvas primitives, and local JavaScript evaluation engines to eliminate network exposure and remote server vulnerabilities.
 
 This repository hosts official governance documents, technical specifications, and security policies.
 
